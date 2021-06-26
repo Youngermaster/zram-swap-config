@@ -1,3 +1,3 @@
 sudo chmod +x install.sh && sudo ./install.sh
 cd ..
-rm -r zram-swap-config
+sudo rm -r zram-swap-config
